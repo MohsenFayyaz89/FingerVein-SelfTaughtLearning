@@ -10,6 +10,8 @@ Mohammad Sabokrou,
 (\* equal contribution)
 <br>
 
+Our feature learning codes are based on [Stanford UFLDL tutorial codes](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial).
+
 If you find this code useful in your research, please cite:
 
 ```
